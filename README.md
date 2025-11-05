@@ -115,6 +115,10 @@ Output format logic set by the frontend in the request body and handled in the n
 
 ```
 
+Examples:
+![IMG-1](./dev/img.png)
+
+![IMG-2](./dev/img2.png)
 
 ## Project Structure
 
